@@ -1,0 +1,11 @@
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\bin\Debug\14.02.2022.exe.config
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\bin\Debug\14.02.2022.exe
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\bin\Debug\14.02.2022.pdb
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\_14._02._2022.Properties.Resources.resources
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.csproj.GenerateResource.cache
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.exe
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\14.02.2022.pdb
+C:\Users\Shebnem\source\repos\14.02.2022\14.02.2022\obj\Debug\_14._02._2022.Mystat.resources
